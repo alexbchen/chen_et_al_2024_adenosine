@@ -1,0 +1,7 @@
+Fish Index: 2 (Lower left)
+Date and time: 2023-09-13_16-27-31
+
+fish_configuration_ID: 2
+fish_configuration_genotype: 
+fish_configuration_age: 
+fish_configuration_comment: 

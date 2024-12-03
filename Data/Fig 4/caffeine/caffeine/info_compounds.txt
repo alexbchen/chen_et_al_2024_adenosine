@@ -1,0 +1,11 @@
+concentration - Alex should know...500uM or 1mM?
+
+treatment ( 1 or 24h) - 1h 
+
+notes - same concnetration as reference
+
+strain fish - AB/TL
+
+age - 7dpf
+
+rig - fishman

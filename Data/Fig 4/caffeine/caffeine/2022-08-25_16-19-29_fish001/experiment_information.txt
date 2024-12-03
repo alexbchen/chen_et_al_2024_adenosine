@@ -1,0 +1,7 @@
+Fish Index: 1 (Upper right)
+Date and time: 2022-08-25_16-19-29
+
+fish_configuration_ID: 1
+fish_configuration_genotype: 
+fish_configuration_age: 
+fish_configuration_comment: 
